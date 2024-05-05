@@ -1,0 +1,12 @@
+Clipboard Data: 
+gcsy ykux agce zggzClipboard Data: 
+gcsy ykux agce zggzClipboard Data: 
+gcsy ykux agce zggzClipboard Data: 
+gcsy ykux agce zggzClipboard Data: 
+gcsy ykux agce zggzClipboard Data: 
+file_path = "C:\\Users\\ksrey\\PycharmProjects\\Keylogger_Detection" # Enter the file path you want your files to be saved to
+extend = "\\"Clipboard Data: 
+file_path = "C:\\Users\\ksrey\\PycharmProjects\\Keylogger_Detection" # Enter the file path you want your files to be saved to
+extend = "\\"Clipboard Data: 
+file_path = "C:\\Users\\ksrey\\PycharmProjects\\Keylogger_Detection" # Enter the file path you want your files to be saved to
+extend = "\\"

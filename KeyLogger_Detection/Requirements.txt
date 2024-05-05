@@ -1,0 +1,13 @@
+sounddevice~=0.4.6
+pynput~=1.7.6
+scipy~=1.13.0
+cryptography~=42.0.6
+requests~=2.31.0
+pillow~=10.3.0
+bs4~=0.0.2
+beautifulsoup4~=4.12.3
+psutil~=5.9.8
+pandas~=2.2.2
+numpy~=1.26.4
+scikit-learn~=1.4.2
+pywin32~=306

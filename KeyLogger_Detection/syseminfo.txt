@@ -1,0 +1,20 @@
+Public IP Address: 128.6.37.211Processor: AMD64 Family 23 Model 24 Stepping 1, AuthenticAMD
+System: Windows 10.0.22631
+Machine: AMD64
+Hostname: Surface-Laptop3
+Private IP Address: 172.27.81.12
+Public IP Address: 128.6.37.211Processor: AMD64 Family 23 Model 24 Stepping 1, AuthenticAMD
+System: Windows 10.0.22631
+Machine: AMD64
+Hostname: Surface-Laptop3
+Private IP Address: 172.27.81.12
+Public IP Address: 128.6.37.211Processor: AMD64 Family 23 Model 24 Stepping 1, AuthenticAMD
+System: Windows 10.0.22631
+Machine: AMD64
+Hostname: Surface-Laptop3
+Private IP Address: 172.27.81.12
+Public IP Address: 128.6.37.211Processor: AMD64 Family 23 Model 24 Stepping 1, AuthenticAMD
+System: Windows 10.0.22631
+Machine: AMD64
+Hostname: Surface-Laptop3
+Private IP Address: 172.27.81.12
