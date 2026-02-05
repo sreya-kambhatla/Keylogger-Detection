@@ -217,15 +217,9 @@ This project is built for **defensive and educational purposes only**. Do not de
 
 ---
 
-## 👥 Contributors
+## 👩‍💻 Contributors
 
 * Sreya Kambhatla — Developer
 * Nitya Ramachandran — Developer
-
----
-
-Sreya Kambhatla<br>
-Data Analyst | Business Analyst<br>
-SQL • Python • Power BI • Analytics Engineering
 
 
