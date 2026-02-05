@@ -216,11 +216,10 @@ This project is built for **defensive and educational purposes only**. Do not de
 * Automated response actions
 
 ---
-## 👤 Authors
+## 👤 
 
 Sreya Kambhatla<br>
-Role = Developer
+Data Analyst | Business Analyst<br>
+SQL • Python • Power BI • Analytics Engineering
 
-Nitya Ramachandran<br>
-Role = Developer
 
